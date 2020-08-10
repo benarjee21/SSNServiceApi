@@ -13,7 +13,7 @@ public class SSNRegister {
 	
 	private Long ssnNumber;
 	private String firstName;
-	private String lasetName;
+	private String lastName;
 	private Date dob;
 	private char gender;
 	private String stateName;
